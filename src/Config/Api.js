@@ -1,3 +1,3 @@
-const API_URL = "https://automatizacion-backend.onrender.com";
+const API_URL = "https://back-azure-hu.onrender.com";
 
 export default API_URL;
